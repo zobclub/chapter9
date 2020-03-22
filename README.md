@@ -12,7 +12,7 @@ Chapter 9 External Sensor program for micro:bit book
 ```
 キャラクタ液晶ディスプレイ表示プログラム カスタムブロックソース by TypeScript
 ```
-*  microbit-clcd.hex
+*  microbit-clcd1.hex
 ```
 キャラクタ液晶ディスプレイ表示プログラム カスタムブロック使用 by MakeCode
 ```
