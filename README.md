@@ -4,18 +4,6 @@ Chapter 9 External Sensor program for micro:bit book
 
 ## Sample Program
 ---
-* clcd1.py
-```
-キャラクタ液晶ディスプレイ表示プログラム by MicroPython
-```
-* clcd1.ts
-```
-キャラクタ液晶ディスプレイ表示プログラム カスタムブロックソース by TypeScript
-```
-* clcd.py
-```
-キャラクタ液晶ディスプレイ表示 ライブラリファイル
-```
 * bme280.py
 ```
 環境センサBME280プログラム by MicroPython
